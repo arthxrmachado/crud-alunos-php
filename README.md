@@ -4,12 +4,12 @@ Este projeto é uma aplicação destinada à administração de alunos, oferecen
 
 #### Principais funcionalidades:
 
-Cadastro de alunos: adicione novos alunos com informações detalhadas.
-Atualização de alunos: modifique informações existentes de alunos já cadastrados.
-Remoção de alunos: exclua registros de alunos do sistema.
-Listagem de todos os alunos: visualize todos os alunos cadastrados de forma organizada.
-Visualização individual de alunos: acesse detalhes específicos de cada aluno.
-Importação de arquivo: insira um arquivo contendo dados de múltiplos alunos para importação rápida.
+- Cadastro de alunos: adicione novos alunos com informações detalhadas.
+- Atualização de alunos: modifique informações existentes de alunos já cadastrados.
+- Remoção de alunos: exclua registros de alunos do sistema.
+- Listagem de todos os alunos: visualize todos os alunos cadastrados de forma organizada.
+- Visualização individual de alunos: acesse detalhes específicos de cada aluno.
+- Importação de arquivo: insira um arquivo contendo dados de múltiplos alunos para importação rápida.
 
 #### Observações:
 
