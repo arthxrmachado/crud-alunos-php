@@ -2,6 +2,11 @@
 
 Este projeto é uma aplicação destinada à administração de alunos, oferecendo funcionalidades de um CRUD para gerenciar informações individuais de estudantes. Além disso, apresenta uma opção para inserir um arquivo contendo dados de vários alunos para importação facilitada.
 
+#### Tecnologias utilizadas:
+
+- Linguagens: HTML e PHP;
+- Banco de Dados: MySQL.
+
 #### Principais funcionalidades:
 
 - Cadastro de alunos: adicione novos alunos com informações detalhadas, como: nome, e-mail e matrícula;
